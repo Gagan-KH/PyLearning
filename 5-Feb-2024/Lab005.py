@@ -1,0 +1,5 @@
+num1 = input("Enter the first number")
+num2 = input("Enter the second number")
+num3= int(num1) +int(num2)
+print(type(num3))
+print(num3)
